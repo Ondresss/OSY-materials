@@ -1,0 +1,10 @@
+client
+client.o
+client_side
+main.cpp
+main.o
+Makefile
+server
+server.cpp
+server.h
+server.o

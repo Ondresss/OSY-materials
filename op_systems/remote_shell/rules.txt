@@ -1,0 +1,1 @@
+Remote shell. Podobně jako předchozí příklad, jen příkaz bude zadán z textového klienta, na serveru interpretován a výstup přesměrován do soketu. Přijatá data klient zobrazí i uloží do souboru.

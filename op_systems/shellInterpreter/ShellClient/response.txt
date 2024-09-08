@@ -1,0 +1,13 @@
+2
+interpreter
+interpreter.cpp
+interpreter.o
+Makefile
+remoteShell.cpp
+remoteShell.h
+remoteShell.o
+server
+server.cpp
+server.o
+ShellClient
+s.txt

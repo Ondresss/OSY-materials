@@ -1,0 +1,5 @@
+interpreter
+interpreter.cpp
+interpreter.o
+Makefile
+s.txt
